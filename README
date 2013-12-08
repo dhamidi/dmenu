@@ -22,3 +22,9 @@ Afterwards enter the following command to build and install dmenu
 Running dmenu
 -------------
 See the man page for details.
+
+Changes
+=======
+This repository is based on dmenu-4.5 and includes the following patches:
+- http://tools.suckless.org/dmenu/patches/xrdb
+- http://tools.suckless.org/dmenu/patches/xft
